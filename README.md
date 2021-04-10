@@ -1,6 +1,4 @@
-# TNE
-Trusted Network Engine
-
+# TNE - Trusted Network Engine
 You may pick any of the modern day's shared-economy business solutions ranging from ride-hailing apps, to accommodation sharing while travelling, there is one serious issue that has been spooking the users - 'Trust deficit' (User not knowing the Provider and vice-versa)! There have been various methods where companies tried to build processes to ensure "Trust" and they surely have done wonders in conventional business models. 
 
 But as shared economies are increasing in volumes and penetration, the width and depth of problems related to 'Trust' is growing at an unprecedented pace. 
