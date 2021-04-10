@@ -7,6 +7,8 @@ But as shared economies are increasing in volumes and penetration, the width and
 
 Taking a step back from technology and thinking how humans behave in real world would enable us to think through how this problem can be addressed. Simply speaking, in our non-digital lives, we trust people who we know or who our acquaintances know. 
 
+![HumanChainImage](https://github.com/mowaiskhan/TNE/blob/main/HumanChain.png)
+
 We have tried to formulate this "human chain" into a system which can be used to build trust for shared-economy systems. 
 
 This paper and reference implementation highlights how one such system can be built and scaled.
